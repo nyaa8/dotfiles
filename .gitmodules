@@ -1,0 +1,12 @@
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:yunree/dotfiles-vim.git
+[submodule "fish"]
+	path = fish
+	url = git@github.com:yunree/dotfiles-fish
+[submodule "alacritty"]
+	path = alacritty
+	url = git@github.com:yunree/dotfiles-alacritty.git
+[submodule "gh"]
+	path = gh
+	url = git@github.com:yunree/dotfiles-gh.git
